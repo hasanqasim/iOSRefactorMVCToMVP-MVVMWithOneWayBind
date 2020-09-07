@@ -8,7 +8,7 @@
 
 import Foundation
 
-class Presenter {
+class ViewModel {
     private var myModel = Model<Date>()
     
     func insert() {
