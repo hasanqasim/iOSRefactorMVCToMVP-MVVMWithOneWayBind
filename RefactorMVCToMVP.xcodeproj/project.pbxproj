@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A67AB3BB25061BC90046C836 /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = A67AB3BA25061BC90046C836 /* Binding.swift */; };
 		A6DA29D02505C8DD003241A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DA29CF2505C8DD003241A7 /* AppDelegate.swift */; };
 		A6DA29D22505C8DD003241A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DA29D12505C8DD003241A7 /* SceneDelegate.swift */; };
 		A6DA29D42505C8DD003241A7 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DA29D32505C8DD003241A7 /* MasterViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A67AB3BA25061BC90046C836 /* Binding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
 		A6DA29CC2505C8DD003241A7 /* RefactorMVCToMVP.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RefactorMVCToMVP.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6DA29CF2505C8DD003241A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A6DA29D12505C8DD003241A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				A6DA29ED25060F6F003241A7 /* MasterViewController-UITableViewDataSource.swift */,
+				A67AB3BA25061BC90046C836 /* Binding.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				A6DA29EB2505DD9C003241A7 /* ViewModel.swift in Sources */,
 				A6DA29E82505D2B5003241A7 /* Model.swift in Sources */,
 				A6DA29D02505C8DD003241A7 /* AppDelegate.swift in Sources */,
+				A67AB3BB25061BC90046C836 /* Binding.swift in Sources */,
 				A6DA29EE25060F6F003241A7 /* MasterViewController-UITableViewDataSource.swift in Sources */,
 				A6DA29D22505C8DD003241A7 /* SceneDelegate.swift in Sources */,
 				A6DA29D42505C8DD003241A7 /* MasterViewController.swift in Sources */,
