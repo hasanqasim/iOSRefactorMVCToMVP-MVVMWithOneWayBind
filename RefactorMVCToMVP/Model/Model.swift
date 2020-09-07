@@ -23,7 +23,7 @@ struct Model<T> {
     }
     
     // use an explicit type with computed properties
-    var counts: Int {
+    var count: Int {
         return objects.count
     }
     
